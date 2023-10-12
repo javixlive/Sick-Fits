@@ -1,6 +1,6 @@
 const SellPage = () => {
     return (
-      <div>index</div>
+      <div>sell page</div>
     )
 }
 
